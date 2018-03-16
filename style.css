@@ -1,7 +1,9 @@
 body {
-    color:white;
+    color: white;
     background-color: black;
-}
-p{
-    color:red;
-}
+    font-family: 'Sacramento', cursive;
+    font-size: 32px;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
